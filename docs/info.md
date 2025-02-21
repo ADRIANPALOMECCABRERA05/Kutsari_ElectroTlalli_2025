@@ -36,8 +36,6 @@ Follow the sequence, and enjoy the challenge!
 
 ## External hardware
 
-## Required Components:
-
 4 push buttons (preferably in red, green, blue, and yellow).
 4 LEDs (matching the button colors).
 Resistors (for pull-down and current-limiting purposes).
